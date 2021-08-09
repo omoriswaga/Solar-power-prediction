@@ -1,2 +1,1 @@
-# Solar-power-prediction
-A machine learning project which utilized ANN and other ML algorithms.
+'https://github.com/omoriswaga/Solar-power-prediction' 
